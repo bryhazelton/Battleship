@@ -1,2 +1,2 @@
 # Battleship
-Simple Battleship Game Java
+Simple Battleship Game as a coding project in Java class
